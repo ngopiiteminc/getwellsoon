@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "UNITY",
 "PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "APPODEAL",
 
 "INTER_COUNT" : 2,
 
@@ -51,7 +51,7 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+"APPODEAL_APP_ID" : "0a2d0b43235a8edaed992812c352f89bbb49e5000780d974",
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
