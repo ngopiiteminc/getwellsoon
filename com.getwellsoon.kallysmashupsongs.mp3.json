@@ -25,7 +25,7 @@
 "INTER_COUNT" : 2,
 
 "enable_strap" : true,
-"enable_strap_SplahScreen" : false,
+"enable_strap_SplahScreen" : true,
 
 "ads_on_exit_dialog" : true,
 
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "206056767",
+"STARAPPID" : "205931765",
 
 "ADMOB_BANNER" : "ca-app-pub-2688503834351480/5415285077",
 "ADMOB_INTER" : "ca-app-pub-2688503834351480/1476040067",
